@@ -1,0 +1,6 @@
+Revision history for Perl extension Speech::Recognition::ViaVoice.
+
+0.01  Tue Jun 26 21:44:35 2001
+	- original version; created by h2xs 1.21 with options
+		-x -O -A speechr.h
+
